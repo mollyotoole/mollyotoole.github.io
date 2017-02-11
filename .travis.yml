@@ -1,0 +1,5 @@
+deploy:
+  provider: s3
+  access_key_id: "AKIAID2SZH345Z47CQQA"
+  secret_access_key: "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"
+  bucket: "motoole.me"
